@@ -91,7 +91,6 @@
 
 
 
-
 gSendMail is a simple library to allow for sending email from your gmail or google apps on domains account.  There are two usages, including in your application or executing the gsendmail.py and passing in arguments
 
 Including in Application:
